@@ -1,0 +1,12 @@
+D:\A0_PROJECT\DSCSchedule\DSCSchedule\DSCSchedule\bin\Debug\DSCSchedule.exe.config
+D:\A0_PROJECT\DSCSchedule\DSCSchedule\DSCSchedule\bin\Debug\DSCSchedule.exe
+D:\A0_PROJECT\DSCSchedule\DSCSchedule\DSCSchedule\bin\Debug\DSCSchedule.pdb
+D:\A0_PROJECT\DSCSchedule\DSCSchedule\DSCSchedule\obj\Debug\DSCSchedule.Form1.resources
+D:\A0_PROJECT\DSCSchedule\DSCSchedule\DSCSchedule\obj\Debug\DSCSchedule.Properties.Resources.resources
+D:\A0_PROJECT\DSCSchedule\DSCSchedule\DSCSchedule\obj\Debug\DSCSchedule.csproj.GenerateResource.Cache
+D:\A0_PROJECT\DSCSchedule\DSCSchedule\DSCSchedule\obj\Debug\DSCSchedule.exe
+D:\A0_PROJECT\DSCSchedule\DSCSchedule\DSCSchedule\obj\Debug\DSCSchedule.pdb
+D:\A0_PROJECT\DSCSchedule\DSCSchedule\DSCSchedule\obj\Debug\DSCSchedule.csprojResolveAssemblyReference.cache
+C:\PROJECTS\DSCSchedule\DSCSchedule\bin\Debug\DSCSchedule.exe.config
+C:\PROJECTS\DSCSchedule\DSCSchedule\obj\Debug\DSCSchedule.exe
+C:\PROJECTS\DSCSchedule\DSCSchedule\obj\Debug\DSCSchedule.pdb
